@@ -9,6 +9,7 @@ The calculations will be done through Jupyter Notebook, and the raw data that ha
 ## Results
 ### How is the district summary affected?
 The district summary tells us a story of 7 district schools which have significant diverse budgets and overall school performances. For example, the school with the highest budget is Bailey High School at $3,124,928 and the one with the lowest budget is Ford High School at $1,763,916. However, BHS budget per student is $628, versus FHS $644. The discrepancies can be due to school size, but when we create bundles for school size we see that both schools have are within the “Large (2000-5000) group. Let’s look at the overall passing performance student’s math and reading test score is very close, BHS at 55% and FHS at 54%. When we look at the overall performance of all district schools, we find the overall passing grade is 54%. It seems that the distribution of budget is not adequate and should be re-evaluated based on the student’s performance. 
+
 <<per school summary 143>
 <<Type summary image 149>>
 
@@ -20,9 +21,8 @@ The complete school summary includes 15 schools, with an overall passing grade o
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ### Math and Reading Scores by Grade
 We have taken away the Thomas High School’s grades for the 9th grader, given to a believe in fraudulent grading process. Once this score is taken away we see a few changes. The math and reading scores use to be 78.98 and 81.87 and the overall passing score was 65%. Once the 9th grades from THS are taken out, we see that the overall passing score and does not change by much. We can assume that no significant fraudulent action has taken place, and if it has it’s doesn’t not have a large impact on the overall passing grade.  
-<<iamge 80
+
 Iamage 13
-![image](
 ![image](
 
 ### Scores by School Spending
