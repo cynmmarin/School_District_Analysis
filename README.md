@@ -3,7 +3,7 @@ Module 4: PyCitySchools with Panda
 
 ## Overview of Project
 ### Purpose
-In our analysis, we will be helping Maria the chief data scientist for a school district, to analyze student funding and standardize test scores. The data that has been provided includes the student’s math and reading test scores, the schools they attend in the district and their budget. By evaluating the data, we will display trends in school’s performance. Our findings will dictate the distribution of school budget that must be determined by the school board. 
+In our analysis, we will be helping Maria the chief data scientist for a school district, analyze student funding and standardize test scores. The data that has been provided includes the student’s math and reading test scores, the schools they attend in the district and their budget. By evaluating the data, we will display trends in school’s performance. Our findings will dictate the distribution of school budget that must be determined by the school board. 
 The calculations will be done through Jupyter Notebook, and the raw data that has been provided are the *students_complete.csv* and the *students_complete.csv”. The student’s csv file contains, the following information for the students: “Student ID”, Student Name”, “Gender”, “Grade”, “School Name”, “Reading Score” and “Math Score. The provided schools csv file, contains the following material on the schools: “School ID”, School Name”, “Type”, “Size” and “Budget”.  The given data will help give an insight to the student’s accomplishments from grade 9th to 12th, the overall rank of each school, and how this relates to their given budget. 
 
 ## Results
@@ -21,7 +21,7 @@ The complete school summary includes 15 schools, with an overall passing grade o
 
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ### Math and Reading Scores by Grade
-We have taken away the Thomas High School’s grades for the 9th grader, given to a believe in fraudulent grading process. Once this score is taken away we see a few changes. The math and reading scores use to be 78.98 and 81.87 and the overall passing score was 65%. Once the 9th grades from THS are taken out, we see that the overall passing score and does not change by much. We can assume that no significant fraudulent action has taken place, and if it has it’s doesn’t not have a large impact on the overall passing grade.  
+We have taken away the Thomas High School’s grades for the 9th grader, given to a believe in fraudulent grading process. Once this score is taken away we see a few changes. The math and reading scores changed, they dramatically, the reading scores decrease to 69.66 from 90.94. Thirds the passing math grade dropped to 66.91 from 97.30. For now we can start to see that there may have been a fraudulent action that has taken place, and but doesn’t not have a large impact on the overall passing grades of the district.   
 
 ![Math and Reading Scores](https://github.com/cynmmarin/School_District_Analysis/blob/3ddb71bb92c0d955baefeabf381b0f5162dbf29c/Math%20and%20Reading%20Scores.png)
 
