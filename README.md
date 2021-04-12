@@ -36,7 +36,7 @@ The schools with the largest population between 2,000 and 5,000, are the ones wi
 ![Scores by School Size](https://github.com/cynmmarin/School_District_Analysis/blob/3ddb71bb92c0d955baefeabf381b0f5162dbf29c/Scores%20by%20school%20size%20.png)
 
 ### Scores by school type
-The school type has the most significant difference out of all the scores distribution. We see that charter schools have an overall passing performance of 90%, in comparison to the district schools that only obtained a 54% of overall passing grades. We can conclude that the charter schools has the ability to provide a higher education and a better distribution of the budget to go into student development.
+The school type has the most significant difference out of all the scores distribution. We see that charter schools have an overall passing performance of 91%, in comparison to the district schools that only obtained a 54% of overall passing grades. We can conclude that the charter schools has the ability to provide a higher education and a better distribution of the budget to go into student development.
 
 ![Scores by School Type](https://github.com/cynmmarin/School_District_Analysis/blob/3ddb71bb92c0d955baefeabf381b0f5162dbf29c/Scores%20by%20school%20type.png)
 
